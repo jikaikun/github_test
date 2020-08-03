@@ -78,5 +78,5 @@
 
   - 使用anaconda搭建环境，具体环境和依赖包保存在tf1.15.yaml文件中，conda重建环境指令如下：
 
-    conda env create -f tf1.15.yaml
+    conda env create -f tf1.15.yaml 
 
