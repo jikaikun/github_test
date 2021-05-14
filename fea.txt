@@ -1,6 +1,6 @@
 develop a new function.
 
-test arc -diff
+test arc revert
 
 for i in range(10):
   print("test feature2.")
