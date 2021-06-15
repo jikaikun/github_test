@@ -7,6 +7,3 @@
 #Description:This is a production script.
 asd
 
-test b 123sd
-SQ
-sdad1
